@@ -5,23 +5,29 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash4031&label=Profile%20views&color=0e75b6&style=flat" alt="prakash4031" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on [Data Analyst Project](https://github.com/prakash4031/netflix_SQL_Project)
+
 - 🌱 I’m currently learning **Python, Machine Learning and React**
 
-- 👨‍💻 All of my projects are available at [https://codepen.io/prakash4031/pen/oNVvwNL](https://codepen.io/prakash4031/pen/oNVvwNL)
+- 👨‍💻 All of my projects are available at [https://github.com/prakash4031](https://github.com/prakash4031)
 
 - 💬 Ask me about **SQL,ML Algorthims, Power Bi ,Excel,Java,Web Deveopment**
 
 - 📫 How to reach me **prakashr1503@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Nlz-ur9Cv6C23ILaUq-seAwjDs9S3pPx/view?usp=sharing](https://drive.google.com/file/d/1Nlz-ur9Cv6C23ILaUq-seAwjDs9S3pPx/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/iamprakashramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamprakashramesh" height="30" width="40" /></a>
 <a href="https://kaggle.com/prakashramesh15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prakashramesh15" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.prakash_15_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.prakash_15_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/prakashr1503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prakashr1503" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@prakashr1503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@prakashr1503" height="30" width="40" /></a>
 </p>
 
