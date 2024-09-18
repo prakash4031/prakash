@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Python, Machine Learning and React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/prakash4031](https://github.com/prakash4031)
+- 👨‍💻 All of my projects are available at [https://github.com/prakash4031](https://github.com/prakashr2000)
 
 - 💬 Ask me about **SQL,ML Algorthims, Power Bi ,Excel,Java,Web Deveopment**
 
