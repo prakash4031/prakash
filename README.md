@@ -56,7 +56,7 @@
 </div>
 
 <div align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=prakashr2000&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+ <img src="https://activity-graph.herokuapp.com/graph?username=prakashr2000"></div>
 
 
 
