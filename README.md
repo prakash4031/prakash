@@ -40,6 +40,34 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakashr2000&" alt="prakashr2000" /></p>
 
+
+
+
+ |[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=18019642)](https://stackoverflow.com/users/18019642/amruta-misal) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=amruta-07"/>|
+|---|---|
+ 
+ --- 
+ 
+ <div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amruta-07&layout=compact&theme=midnight-purple"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=amruta-07&show_icons=true&theme=cobalt"></img>
+</div>  
+
+  
+  <div align="center">
+<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
+</div>
+
 <div align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=prakashr2000&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+<img src="https://img.shields.io/github/followers/amruta-07.svg?style=social&label=Follow"></img>
+
+<img src="https://gpvc.arturio.dev/amruta-07"></img>
+</div>
+
+<div align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=amruta-07&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+
+
+
+Leave a ⭐ from [here](https://github.com/amruta-07/amruta-07) if you like 😁
 
