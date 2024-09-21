@@ -57,5 +57,5 @@
 
 
 
-Leave a ⭐ from [here](https://github.com/prakashr2000/prakashr2000) if you like 😁
+Leave a ⭐ from [here](https://github.com/prakashr2000) if you like 😁
 
