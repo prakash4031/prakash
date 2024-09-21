@@ -39,3 +39,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashr2000&show_icons=true&locale=en" alt="prakashr2000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakashr2000&" alt="prakashr2000" /></p>
+
+<div align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=prakashr2000&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
