@@ -55,8 +55,7 @@
 <img src="https://gpvc.arturio.dev/prakashr2000"></img>
 </div>
 
-<div align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=prakashr2000"></div>
+
 
 
 
