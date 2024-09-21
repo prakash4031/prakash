@@ -52,8 +52,6 @@
 <div align="center">
 <img src="https://img.shields.io/github/followers/prakashr2000.svg?style=social&label=Follow"></img>
 
-<img src="https://gpvc.arturio.dev/prakashr2000"></img>
-</div>
 
 
 
