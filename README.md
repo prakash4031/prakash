@@ -37,8 +37,7 @@
 
 
 
- |[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=18019642)](https://stackoverflow.com/users/18019642/St Joseph College Chennai) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=prakashr2000"/>|
-|---|---|
+ |[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=18019642)](https://stackoverflow.com/users/18019642/StJoseph) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=prakashr2000"/>|
  
  --- 
  
